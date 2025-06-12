@@ -1,0 +1,14 @@
+# Dependencies
+/server/node_modules
+/client/my-app/node_modules
+
+# Environment variables (NEVER commit secrets)
+/server/.env
+
+# Production build folder
+/client/my-app/build
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

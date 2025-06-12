@@ -1,5 +1,5 @@
-# Ignore node_modules folder
+# Dependencies
 node_modules
 
-# Ignore .env file to keep secrets safe
+# Environment variables (NEVER commit secrets)
 .env
